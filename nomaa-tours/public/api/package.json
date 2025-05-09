@@ -1,0 +1,15 @@
+{
+  "name": "nomaa-tours",
+  "version": "1.0.0",
+  "description": "NOMAA Tours, Adventures, & More website",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.9"
+  },
+  "devDependencies": {
+    "vercel": "^33.4.1"
+  }
+}
