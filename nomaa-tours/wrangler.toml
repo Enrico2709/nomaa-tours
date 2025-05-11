@@ -1,5 +1,0 @@
-name = "nomaa-tours"
-compatibility_date = "2025-05-09"
-
-[site]
-bucket = "./public"
